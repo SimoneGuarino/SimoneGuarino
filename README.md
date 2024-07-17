@@ -3,7 +3,7 @@
  <img height="50" src="https://c.tenor.com/TweJ-FuVtXMAAAAC/tenor.gif"/>  Welcome to my GitHub profile
 
 </div> 
-<img height="220" src="https://c.tenor.com/RWb8nW4xlEMAAAAC/tenor.gif" align="right"/>
+<img height="220" src="https://c.tenor.com/RWb8nW4xlEMAAAAC/tenor.gif" align="left"/>
 <br><br>
 <div align="right">
 
