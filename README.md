@@ -5,7 +5,7 @@
 </div> 
 <img height="220" src="https://c.tenor.com/RWb8nW4xlEMAAAAC/tenor.gif" align="left"/>
 <br><br>
-<div align="right">
+<div align="left">
 
 **SiMo** _!_ 
 ``knowledge? ★ ᶻ 𝘇 𐰁``
