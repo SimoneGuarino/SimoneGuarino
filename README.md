@@ -25,6 +25,7 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
       </div>
 <href="https://github.com/SimoneGuarino"><img src="https://github-readme-stats.vercel.app/api?username=SimoneGuarino&hide_border=true&show_icons=true" alt="SimoneGuarino's github stats" align="right">
   </div>
+ 
 ---
  
 -   :hammer_and_pick: **__Focused on__**; Programming
