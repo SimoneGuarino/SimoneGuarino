@@ -18,7 +18,7 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
 
 </div>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hi, I'm Simone Guarino! 
+## <img height="40" src="https://media.tenor.com/jaX_i8ry6AQAAAAi/enterprise-confused.gif"/>  Hi, I'm Simone Guarino! 
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
@@ -29,8 +29,9 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
  Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
 -   :hammer_and_pick: **__Focused on__**; Programming
--   :pencil2: **__Learning__**; Morse Code / C ++ 
+-   :trophy: **__Language__**; Javascript / Python / Php / C#
+-   :pencil2: **__Learning__**; Python
 -   :seedling: **Goal**; Find an idea for a project.
--   :heart: **Hobbies**; [OSU Player](https://osu.ppy.sh/users/26126568) / Watch Anime / Listen to Music / Content Creation.
+-   :heart: **Hobbies**; Programming / Watch Anime / Listen to Music / Play Videogames.
 
 ---
