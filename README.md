@@ -11,7 +11,10 @@
 ``knowledge? ★ ᶻ 𝘇 𐰁``
 
 
-I had no one to teach me, so I was self-taught and learned a lot, but I feel I didn't learn enough. Now I'm trying to figure out something new to do, and even though I'm just starting on github, I have the experience to be able to publish a decent repository.
+I am a Full-Stack Developer with several years of experience in designing and developing enterprise web applications.
+Skilled in REST / RESTful API development, React.js Front-End, Nodejs, PHP7 and Python.
+Proficient in both relational and non-relational databases.
+Passionate about my work and always up-to-date.
 
 
 ``╰﹒bye bye, 🍓﹗``
