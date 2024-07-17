@@ -18,7 +18,7 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
 
 </div>
 
-## <img height="40" src="https://media.tenor.com/jaX_i8ry6AQAAAAi/enterprise-confused.gif"/>  Hi, I'm Simone Guarino! 
+## <img height="40" src="https://media.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif"/>  Hi, I'm Simone Guarino! 
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
